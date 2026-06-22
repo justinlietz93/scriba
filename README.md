@@ -1,4 +1,6 @@
-# scriba
+<img width="2172" height="724" alt="scriba_banner" src="https://github.com/user-attachments/assets/e0c25c82-7449-454d-88af-f52d4edc054d" />
+
+# AI Transcription Tool
 
 Turn things into text. One command takes PDFs and audio files and writes
 a plain `.txt` for each. PDFs are read from their text layer and OCR'd
